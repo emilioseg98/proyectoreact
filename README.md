@@ -4,4 +4,4 @@ El programa consiste en que consume la API de todos los peleadores de la UFC, y 
 
 Como son muchos peleadores en la página, se ha creado también un buscador para que las personas puedan buscar de manera cómoda y sin tener que buscar nombre por nombre. Simplemente se le pone el nombre, y automaticamente aparece la información del peleador
 
-Dentro de la carpeta proyecto react están dos fotos de la demostración de la página un porsiacaso
+Dentro de la carpeta proyectoreact están dos fotos de la demostración de la página un porsiacaso
